@@ -20,13 +20,13 @@ Arcade shooter created with OpenGL(Glut)
 You are in asteroid bell and you control a spaceship. Your mission is survive. You can shoot forward, thrust forward and turn left and right.
 
 ## Screenshots
-![Main menu](/Screenshot/Screenshot_1.png?raw=true "Main menu")
-![Main menu](/Screenshot/Screenshot_2.png?raw=true "Main menu")
-![New level](/Screenshot/Screenshot_3.png?raw=true "New level")
-![Shooting](/Screenshot/Screenshot_4.png?raw=true "Shooting")
-![Bullet hits asteroid](/Screenshot/Screenshot_5.png?raw=true "Bullet hits asteroid")
-![Crashing](/Screenshot/Screenshot_6.png?raw=true "Crashing")
-![Game Over](/Screenshot/Screenshot_7.png?raw=true "Game Over")
+![Main menu](/Screenshots/Screenshot_1.png?raw=true "Main menu")
+![Main menu](/Screenshots/Screenshot_2.png?raw=true "Main menu")
+![New level](/Screenshots/Screenshot_3.png?raw=true "New level")
+![Shooting](/Screenshots/Screenshot_4.png?raw=true "Shooting")
+![Bullet hits asteroid](/Screenshots/Screenshot_5.png?raw=true "Bullet hits asteroid")
+![Crashing](/Screenshots/Screenshot_6.png?raw=true "Crashing")
+![Game Over](/Screenshots/Screenshot_7.png?raw=true "Game Over")
 
 
 ## Technologies
