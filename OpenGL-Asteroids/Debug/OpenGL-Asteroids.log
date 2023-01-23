@@ -1,0 +1,31 @@
+﻿  Asteroid.cpp
+  Bullet.cpp
+  Calculate.cpp
+  main.cpp
+  Object.cpp
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Object.cpp(39,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Object.cpp(42,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Rocket.cpp
+  Scene.cpp
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(86,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(88,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(105,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(117,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(141,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(162,30): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(162,30): message : рекомендуется использовать "%lld" в строке форматирования
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(162,30): message : рекомендуется использовать "%I64d" в строке форматирования
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(167,29): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(167,29): message : рекомендуется использовать "%lld" в строке форматирования
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(167,29): message : рекомендуется использовать "%I64d" в строке форматирования
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(193,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(377,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(386,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(398,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(407,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(420,28): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Projects\OpenGL-Asteroids2\OpenGL-Asteroids\src\Scene.cpp(437,27): warning C4018: <: несоответствие типов со знаком и без знака
+  utils.cpp
+  Создание кода...
+  OpenGL-Asteroids.vcxproj -> D:\Projects\OpenGL-Asteroids2\Debug\OpenGL-Asteroids.exe
